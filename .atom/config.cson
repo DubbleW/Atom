@@ -1,0 +1,27 @@
+"*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#c2bf56"
+      accentColor: "#5458dd"
+      genAccent: true
+      predefinedColor: "Purple"
+    tabs:
+      compactTabs: true
+    ui:
+      panelContrast: true
+  "color-picker":
+    abbreviateValues: true
+  core:
+    autoHideMenuBar: true
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "e607d16b-1385-4c49-a579-5aa52e9aa7bb"
+  teletype: {}
+  "webbox-color": {}
+  welcome:
+    showOnStartup: false

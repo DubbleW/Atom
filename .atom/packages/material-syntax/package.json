@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-1171024-3154-1thj2t7.ykh736jemi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-1171024-3154-1thj2t7.ykh736jemi/package.tgz",
+        "spec": "/tmp/d-1171024-3154-1thj2t7.ykh736jemi/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-1171024-3154-1kr7el5.hkfi1i3sor"
+    ]
+  ],
+  "_from": "../d-1171024-3154-1thj2t7.ykh736jemi/package.tgz",
+  "_id": "material-syntax@0.6.1",
+  "_inCache": true,
+  "_location": "/material-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-1171024-3154-1thj2t7.ykh736jemi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-1171024-3154-1thj2t7.ykh736jemi/package.tgz",
+    "spec": "/tmp/d-1171024-3154-1thj2t7.ykh736jemi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-1171024-3154-1thj2t7.ykh736jemi/package.tgz",
+  "_shasum": "73c4ae9c2c1b74e8d82f580a8519ed4e2b662fc8",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-1171024-3154-1thj2t7.ykh736jemi/package.tgz",
+  "_where": "/tmp/apm-install-dir-1171024-3154-1kr7el5.hkfi1i3sor",
+  "bugs": {
+    "url": "https://github.com/DaanDD/material-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Bringing Material Design to Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/DaanDD/material-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "material",
+    "google",
+    "candy",
+    "sublime"
+  ],
+  "license": "MIT",
+  "name": "material-syntax",
+  "optionalDependencies": {},
+  "readme": "# material-syntax theme\n\nThis theme brings the Google Material Design visual language to Atom.\nIt is based on this [Material Theme for Sublime Text](http://equinusocio.github.io/material-theme/).\nThe colors should match the original pretty well. If you find any problems, feel\nfree to create a [new issue](https://github.com/DaanDD/material-syntax/issues/new)\n\n![Screenshot](http://i.imgur.com/TDNX0Lm.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaanDD/material-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.6.1"
+}

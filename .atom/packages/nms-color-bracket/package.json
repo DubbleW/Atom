@@ -1,0 +1,63 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-1171024-21241-loppj7.kgjy8pvi/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-1171024-21241-loppj7.kgjy8pvi/package.tgz",
+        "spec": "/tmp/d-1171024-21241-loppj7.kgjy8pvi/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-1171024-21241-1irf41y.aokuy833di"
+    ]
+  ],
+  "_from": "../d-1171024-21241-loppj7.kgjy8pvi/package.tgz",
+  "_id": "nms-color-bracket@0.1.0",
+  "_inCache": true,
+  "_location": "/nms-color-bracket",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-1171024-21241-loppj7.kgjy8pvi/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-1171024-21241-loppj7.kgjy8pvi/package.tgz",
+    "spec": "/tmp/d-1171024-21241-loppj7.kgjy8pvi/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-1171024-21241-loppj7.kgjy8pvi/package.tgz",
+  "_shasum": "2a79ff039e4641ee5fa05cc146f4f8d06bbb3b70",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-1171024-21241-loppj7.kgjy8pvi/package.tgz",
+  "_where": "/tmp/apm-install-dir-1171024-21241-1irf41y.aokuy833di",
+  "activationCommands": {
+    "atom-workspace": "nms-color-bracket:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/nmscholl/nms-color-bracket/issues"
+  },
+  "dependencies": {},
+  "description": "Color codes pairs of matching curly brackets to help see block structure, and quickly identify missing/extra brackets",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/nmscholl/nms-color-bracket#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/nms-color-bracket",
+  "name": "nms-color-bracket",
+  "optionalDependencies": {},
+  "readme": "# nms-color-bracket package\n\n{{{{{{{{{{{{}}}}}}}}}}}}\n\n+ Colors pairs of Brackets based on nesting level\n+ Colors up to 12 deep\n+ Alt-q to toggle\n+ Saving will reprocess current page\n+ Unpaired close \"}\" brackets will flash\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmscholl/nms-color-bracket.git"
+  },
+  "version": "0.1.0"
+}
